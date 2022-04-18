@@ -1,0 +1,10 @@
+{
+    "user_slug": "a-lick", 
+    "show_slug": "yellowjackets", 
+    "access_token": "fe9e1a257eb379e3841e43b0e3563d80621868358335625c7dcf1605609715eb", 
+    "trakt_id": 5742818, 
+    "refresh_token": "ac8c1b5479396c4efec7ddb2e8cc0b5867cdcb2559efe18ab734d660a72222bf", 
+    "client_id": "d1f78f721303b187135176998edb58961f8fe2124d135e0a3712ff192bbf9615", 
+    "client_secret": "288087c26782fe84a0265b0c14891fd036a6aabba934a125b5dc8bc4bbfc8b4b", 
+    "today": "2022-01-04"
+}
